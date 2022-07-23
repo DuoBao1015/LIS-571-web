@@ -1,0 +1,75 @@
+body {
+	background-color: white;
+	display: transparent;
+	font-family: 'Arial';
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	height: 100vh;
+	margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+div.about{
+    text-align: center;
+}
+
+
+
+div.recommendations{
+    text-align: center;
+}
+
+
+
+#about p{
+    text-align:center
+}
+
+#recommendations p{
+    text-align:center
+}
+
+#recommendations table, td, tr, th{
+    text-align: center;
+    border: 1px solid;
+    margin-right:auto ;
+    margin-left:auto ;}
+
+#gallery {
+    line-height:0;
+    -webkit-column-count:5; /*5 columns*/
+    -webkit-column-gap:5px; /*5px gap between columns */
+    -moz-column-count:5;
+    -moz-column-gap:5px;
+    column-count:5;
+    column-gap:5px;
+ }
+
+#gallery img {
+    width: 100% !important;
+    height: 100% !important;
+    margin-bottom:0px; /* match column gap */
+ }
+
