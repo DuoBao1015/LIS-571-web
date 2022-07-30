@@ -1,0 +1,61 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+body {
+    background-color: rgb(133, 128, 124);
+}
+form {
+    text-align: center;
+}
+#FORM {
+    text-align: center;
+    font-weight: bold;
+    
+}
+#Comment {
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.Introduction {
+    color : blue;
+    text-align: left;
+}
+.Introduction_Header {
+    color : rgb(196, 21, 21);
+    text-align: left;
+    
+}
+.Places_Header {
+    text-align: left;
+    color: red;
+}
+.Images_Header {
+    text-align: left;
+    color: red;
+}
+#Berlin {
+    text-align: left;
+    font-weight: bold;
+    color: black;
+}
+#Hamburg {
+    text-align: left;
+    font-weight: bold;
+    color: red;
+}
+#Frankfurt {
+    text-align: left;
+    font-weight: bold;
+    color:yellow;
+}
+#Munich {
+    text-align: left;
+    font-weight: bold;
+    color: black;
+}
