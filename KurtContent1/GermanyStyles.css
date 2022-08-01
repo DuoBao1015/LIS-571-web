@@ -11,7 +11,7 @@ body {
 form {
     text-align: center;
 }
-#FORM {
+#checkbox_FORM {
     text-align: center;
     font-weight: bold;
     
@@ -20,6 +20,9 @@ form {
     text-align: center;
     font-weight: bold;
 
+}
+#radio_FORM {
+    text-align: center;
 }
 
 .Introduction {
@@ -39,22 +42,22 @@ form {
     text-align: left;
     color: red;
 }
-#Berlin {
+#Berlin_header {
     text-align: left;
     font-weight: bold;
     color: black;
 }
-#Hamburg {
+#Hamburg_header {
     text-align: left;
     font-weight: bold;
     color: red;
 }
-#Frankfurt {
+#Frankfurt_header {
     text-align: left;
     font-weight: bold;
     color:yellow;
 }
-#Munich {
+#Munich_header {
     text-align: left;
     font-weight: bold;
     color: black;
