@@ -1,5 +1,5 @@
 h1 {
-    color: blue;
+    color: red;
     text-align: center;
 }
 h2 {
@@ -61,4 +61,9 @@ form {
     text-align: left;
     font-weight: bold;
     color: black;
+}
+#border {
+    border-color: black;
+    border-style: solid;
+    border-width: thick;
 }
